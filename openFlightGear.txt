@@ -1,0 +1,2 @@
+cd ~/ardupilot/ArduCopter
+../Tools/autotest/fg_quad_view.bat
